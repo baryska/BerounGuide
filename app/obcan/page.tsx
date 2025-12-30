@@ -4,7 +4,7 @@ import { IdCard, Home, Trash2, Dog } from 'lucide-react';
 export default function ZakladniVeciPage() {
   return (
     <main>
-      <h1>Základní věci</h1>
+      <h1>Občan</h1>
 
       <p className="perex">
         Co zařídit s městem, když se přestěhuješ. Oficiální, ale ne státní onboarding.
