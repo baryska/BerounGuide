@@ -13,7 +13,7 @@ export default function JidloAObchodyPage() {
       <SectionWithIcon icon={Coffee} title="Kavárny">
         <ul>
           <li>
-            <strong>Budka café</strong> – větší kavárna, pobočky v BE i KD
+            <strong>Budka café</strong> – větší kavárna, pobočky v Berouně i Králově Dvoře
           </li>
           <li>
             <strong>Kavárna mezi dvorky</strong> – malá, komorní kavárna, klidné prostředí
