@@ -12,61 +12,85 @@ export default function ParkovaniAPohybPage() {
 
       <SectionWithIcon icon={ParkingCircle} title="Parkovací karta">
         <p>
-          <strong>Co to je:</strong> Karta, která ti umožní parkovat v modrých zónách (kde jinak platíš nebo máš časový limit)
+          <strong>Co to je:</strong> Parkovací oprávnění pro obyvatele (rezidenty) a podnikatele (abonenty) v zónách I, II a III.
         </p>
+        <br />
         <p>
-          <strong>Kde ji získat:</strong> Online přes Munipolis nebo osobně na odboru dopravy
+          <strong>Kde ji získat:</strong> Vyřídíš ji na odboru dopravy (budova Pod Kaplankou 21) nebo pohodlněji online přes Portál občana Berouna.
         </p>
+        <br />
         <p>
-          <strong>Co potřebuješ:</strong> Trvalé bydliště v Berouně, technický průkaz auta
+          <strong>Co potřebuješ:</strong> Trvalé bydliště v Berouně a vztah k vozidlu (techničák).
         </p>
+        <br />
         <p>
-          <strong>Kolik to stojí:</strong> 500 Kč/rok za první auto, 1000 Kč za druhé
+          <strong>Kolik to stojí (za rok):</strong> 1. auto: 360 Kč, 2. auto: 2 500 Kč, 3. a každé další: 6 000 Kč
         </p>
+        <br />
         <p>
-          <strong>Důležité:</strong> Karta platí jen pro zónu tvé adresy bydliště
+          <strong>Tip:</strong> Pokud jsi podnikatel (abonent), zaplatíš za první auto 5 000 Kč (v centru na Husově náměstí je to ale 10 000 Kč).
         </p>
       </SectionWithIcon>
 
       <SectionWithIcon icon={Car} title="Jak funguje parkování">
         <p>
-          <strong>Modré zóny:</strong> S parkovací kartou parkuješ zdarma, bez karty platíš nebo máš časový limit (typicky 2 hodiny)
+          <strong>Centrum (Husovo náměstí):</strong> Tady se parkuje jen krátce. Stojí to 30 Kč za prvních 30 minut, každá další hodina je pak za "trestných" 100 Kč.
         </p>
+        <br />
         <p>
-          <strong>Parkovací domy:</strong> Mají několik hodin zdarma, pak se platí (ideální když jdeš na nákup)
+          <strong>P+R (U nádraží a Na Podole):</strong> Nejlepší volba pro dojíždějící. Za celých 24 hodin zaplatíš jen 30 Kč.
         </p>
+        <br />
         <p>
-          <strong>Placená parkoviště:</strong> U nádraží, u Lidlu, na Plácku – platba přes automat nebo SMS
+          <strong>Krátké pochůzky:</strong> Na Václavském náměstí je první hodina zdarma (pak 30 Kč/24h). U Medicentra nebo u knihovny (Kasárna) vyjde první hodina na 10 Kč.
         </p>
+        <br />
         <p>
-          <strong>Tip:</strong> Mapa modrých zón je na webu města, stáhni si ji do mobilu
+          <strong>Platba:</strong> Automaty nebo mobilní aplikace Easypark (u Boškova statku je přes mobilní platbu zvýhodněné jízdné pro rodiče sportovců za 5 Kč/hod).
+        </p>
+        <br />
+        <p>
+          <strong>Parkovací dům U Černého koně (městský):</strong>Hrnčířská 3 (u Wagnerova náměstí). Cena (platná od 1. 1. 2026): Pracovní dny: 40 Kč/hod (první 4 hodiny), nad 4 hodiny fixně 130 Kč/den. Noc (18:00–07:00): 50 Kč za celou noc. Víkendy a svátky: 20 Kč/hod.
+        </p>
+        <br />
+        <p>
+          <strong>Parkovací dům TIBA (soukromý):</strong> Kde: Areál bývalé Tiby (u Plzeňské ulice, naproti KD Plzeňka a ZŠ VIA). Využívá vlastní aplikaci "TIBA Parking".
         </p>
       </SectionWithIcon>
 
       <SectionWithIcon icon={Bike} title="Kola a cyklostezky">
         <p>
-          <strong>Sdílená kola:</strong> V Berouně fungují Nextbike – app v mobilu, první hodina zdarma
+          <strong>Sdílená kola:</strong> Nextbike má v Berouně silnou síť. Prvních 15 minut jízdy je zdarma, což na většinu cest po městě stačí.
         </p>
+        <br />
         <p>
-          <strong>Cyklostezky:</strong> Berounka Trail je hlavní trasa podél řeky, dojdeš až do Prahy
+          <strong>Hlavní trasy:</strong> Cyklostezka podél Berounky (směr Karlštejn nebo Nižbor). V centru pozor na pěší zóny, jezděte se ohleduplně. Jízda po chodníku je zakázána.
         </p>
+        <br />
         <p>
-          <strong>Pravidla:</strong> Na cyklostezce nesmíš jezdit na elektrokoloběžce (ano, vážně)
-        </p>
-        <p>
-          <strong>Tip:</strong> V létě je cyklostezka plná rodin s dětmi, jezdi raději ráno nebo večer
+          <strong>Parkování kol:</strong> U vlakového nádraží je k dispozici cyklověž (bezpečné uložení kola v suchu). 
         </p>
       </SectionWithIcon>
 
       <SectionWithIcon icon={Bus} title="MHD a vlaky">
         <p>
-          <strong>Autobusy:</strong> Městská doprava má několik linek, jízdní řády na webu DPB
+          V Berouně máš na výběr ze dvou hlavních vlakových tras:
         </p>
+        <br />
         <p>
-          <strong>Vlaky:</strong> Z Berouna jezdí vlaky do Prahy každou půlhodinu, cesta trvá cca 40 minut
+          <strong>1. Hlavní trať podél Berounky (přes Řevnice a Karlštejn):</strong> Rychlíky (linka R16): Nejrychlejší spojení. Na Smíchově jsi za 28–32 minut, na Hlavní nádraží za cca 40 minut. Jezdí každou hodinu, ve špičce i častěji. Osobní vlaky (linka S7): Zastavují v každé obci (Srbsko, Karlštejn...). Cesta na Smíchov trvá cca 43–47 minut. Jezdí každých 30 minut.
         </p>
+        <br />
         <p>
-          <strong>Tip:</strong> Lítačka platí i v Berouně (zóna 4)
+          <strong>2. Trať přes Rudnou u Prahy (linka S6):</strong> Kdy ji využít: Ideální, pokud bydlíš v části Závodí, protože vlak zastavuje na zastávce Beroun-Závodí. Dojezdový čas: Je to výrazně pomalejší trasa (jednokolejka přes kopce). Cesta na Smíchov trvá 49–52 minut. Nové vlaky: Od prosince 2025/2026 jsou zde nasazeny nové bezbariérové jednotky (RegioFox).
+        </p>
+        <br />
+        <p>
+          <strong>Lítačka:</strong> Beroun je pásmo 4. Pokud máš pražský kupón (pásma P, 0, B), pro cestu do Berouna si musíš v aplikaci PID Lítačka aktivovat jízdenku pro 4 pásma (nebo mít nahraný příslušný kupon).
+        </p>
+        <br />
+        <p>
+          <strong>Cyklověž:</strong> Pokud jedeš k vlaku na kole, u nádraží je parkovací věž, kde je kolo v bezpečí a suchu.
         </p>
       </SectionWithIcon>
     </main>
