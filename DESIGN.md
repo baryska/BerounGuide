@@ -79,7 +79,7 @@ Použijte emoji nebo Unicode symboly:
 
 ### 2. Box komponenta
 
-Jednoduchý box pro zvýraznění informací.
+Jednoduchý box pro zvýraznění informací
 
 ```tsx
 import { Box } from '../components/Box';
