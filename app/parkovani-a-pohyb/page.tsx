@@ -28,7 +28,7 @@ export default function ParkovaniAPohybPage() {
         </p>
         <br />
         <p>
-          <strong>Tip:</strong> Pokud jsi podnikatel (abonent), zaplatíš za první auto 5 000 Kč (v centru na Husově náměstí je to ale 10 000 Kč).
+          <strong>Tip:</strong> Pokud jsi podnikatel, zaplatíš za první auto 5 000 Kč (v centru na Husově náměstí je to ale 10 000 Kč).
         </p>
       </SectionWithIcon>
 
