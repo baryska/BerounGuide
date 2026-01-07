@@ -4,7 +4,7 @@ import { ParkingCircle, Car, Bike, Bus } from 'lucide-react';
 export default function ParkovaniAPohybPage() {
   return (
     <main>
-      <h1>Parkování & pohyb</h1>
+      <h1>Parkování & doprava</h1>
 
       <p className="perex">
         Velké téma. Parkování v Berouně je věda, ale dá se to zvládnout.
