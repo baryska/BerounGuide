@@ -25,6 +25,7 @@ export default function RootLayout({
                 <li><Link href="/jak-funguje-mesto">Jak funguje město</Link></li>
                 <li><Link href="/verejny-prostor">Veřejný prostor</Link></li>
                 <li><Link href="/deti-a-skoly">Děti & školy</Link></li>
+                <li><Link href="/lekari">Lékaři & zdravotnictví</Link></li>
                 <li><Link href="/sport">Sport</Link></li>
                 <li><Link href="/knihovna">Knihovna</Link></li>
                 <li><Link href="/kultura">Kultura</Link></li>
