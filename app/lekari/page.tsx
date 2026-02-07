@@ -26,7 +26,7 @@ export default function LekariPage() {
           </li>
         </ul>
         <p>
-          <strong>Tip:</strong> Seznam lékařů najdeš na webu <a href="https://www.znamylekar.cz" target="_blank" rel="noopener noreferrer">ZnámýLékař.cz</a> nebo na stránkách města
+          <strong>Tip:</strong> Seznam lékařů najdeš na webu <strong><a href="https://www.znamylekar.cz" target="_blank" rel="noopener noreferrer">ZnámýLékař.cz</a></strong> nebo na <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">stránkách města</a></strong>
         </p>
       </SectionWithIcon>
 
@@ -66,7 +66,7 @@ export default function LekariPage() {
           </li>
         </ul>
         <p>
-          <strong>Pohotovost:</strong> Stomatologická pohotovost funguje o víkendech a svátcích – sleduj web města nebo volej nemocnici
+          <strong>Pohotovost:</strong> Stomatologická pohotovost funguje o víkendech a svátcích – sleduj <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">web města</a></strong> nebo volej nemocnici
         </p>
       </SectionWithIcon>
 

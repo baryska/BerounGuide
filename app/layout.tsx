@@ -22,7 +22,7 @@ export default function RootLayout({
                 <li><Link href="/">Úvod</Link></li>
                 <li><Link href="/obcan">Občan</Link></li>
                 <li><Link href="/doprava">Parkování & doprava</Link></li>
-                <li><Link href="/jak-funguje-mesto">Jak funguje město</Link></li>
+                <li><Link href="/jak-komunikovat-s-mestem">Jak komunikovat s městem</Link></li>
                 <li><Link href="/verejny-prostor">Veřejný prostor</Link></li>
                 <li><Link href="/deti-a-skoly">Děti & školy</Link></li>
                 <li><Link href="/lekari">Lékaři & zdravotnictví</Link></li>

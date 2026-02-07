@@ -20,7 +20,7 @@ export default function ZakladniVeciPage() {
         </p>
         <br />
         <p>
-          <strong>Tip:</strong> Rozhodně využij on-line rezervační systém na webu města. Agendy v Tyršově ulici jsou vytížené a bez objednání můžeš čekat i několik hodin.
+          <strong>Tip:</strong> Rozhodně využij on-line rezervační systém na <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">webu města</a></strong>. Agendy v Tyršově ulici jsou vytížené a bez objednání můžeš čekat i několik hodin.
         </p>
       </SectionWithIcon>
 
@@ -40,7 +40,7 @@ export default function ZakladniVeciPage() {
 
       <SectionWithIcon icon={Trash2} title="Odpady">
         <p>
-          <strong>Kde se přihlásit:</strong> Ohlašovací povinnost lze vyřídit osobně na radnici (Husovo náměstí 68, kancelář C 103 v přízemí) nebo pohodlně on-line přes Portál občana města Beroun.
+          <strong>Kde se přihlásit:</strong> Ohlašovací povinnost lze vyřídit osobně na radnici (Husovo náměstí 68, kancelář C 103 v přízemí) nebo pohodlně on-line přes <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">Portál občana města Beroun</a></strong>.
         </p>
         <br />
         <p>

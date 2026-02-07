@@ -34,7 +34,7 @@ export default function DetiASkolyPage() {
           </li>
         </ul>
         <p>
-          <strong>Zápisy:</strong> Duben každého roku, sleduj web města nebo Munipolis
+          <strong>Zápisy:</strong> Duben každého roku, sleduj <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">web města</a></strong> nebo <strong><a href="https://beroun.munipolis.cz" target="_blank" rel="noopener noreferrer">Munipolis</a></strong>
         </p>
       </SectionWithIcon>
 

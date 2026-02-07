@@ -56,10 +56,10 @@ export default function KomunityPage() {
             <strong>Berounský deník</strong> – Lokální noviny, online i tištěné, spolehlivý zdroj informací
           </li>
           <li>
-            <strong>Web města</strong> – Oficiální informace, události, usnesení zastupitelstva
+            <strong><a href="https://www.mesto-beroun.cz" target="_blank" rel="noopener noreferrer">Web města</a></strong> – Oficiální informace, události, usnesení zastupitelstva
           </li>
           <li>
-            <strong>Munipolis</strong> – Appka pro komunikaci s městem, upozornění na akce
+            <strong><a href="https://beroun.munipolis.cz" target="_blank" rel="noopener noreferrer">Munipolis</a></strong> – Appka pro komunikaci s městem, upozornění na akce
           </li>
         </ul>
       </SectionWithIcon>
