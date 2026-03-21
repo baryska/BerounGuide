@@ -362,6 +362,24 @@ const CLUBS: Record<string, Club[]> = {
       meta: [{ icon: "🌐", content: "tanecberoun.cz", href: "https://www.tanecberoun.cz" }],
       accent: "purple",
     },
+    {
+      tag: "Street Dance / Pohybovky",
+      name: "Double Cookies",
+      description:
+        "Organizace pro děti založená v roce 2014 se sálem přímo v Berouně (Havlíčkova 178/2). Nezaměřuje se na soutěže – důraz na dobrou partu, respektující přístup a rozvoj sebevědomí. Tři typy kroužků: Fusioon (Street Dance – hip hop, break dance, afro, K-pop; 6–18 let), LaLa cvíčo (pohybovky s tancem a hrami; 4–7 let) a Hračko dílničky (kreativní výroba; 5–10 let). Tréninky Po–Čt, první lekce zdarma. Příměstské tábory, campy a pobytový Cookies camp ve Šlovicích na Berounsku.",
+      badges: [
+        { text: "Od 4 let", variant: "age" },
+        { text: "Fusioon: 6–18 let", variant: "age" },
+        { text: "LaLa cvíčo: 4–7 let", variant: "age" },
+        { text: "1. lekce zdarma", variant: "green" },
+        { text: "Příměstské tábory", variant: "blue" },
+      ],
+      meta: [
+        { icon: "📍", content: "Havlíčkova 178/2, Beroun" },
+        { icon: "🌐", content: "doublecookies.cz", href: "https://www.doublecookies.cz/kurzy-podle-mest/beroun/" },
+      ],
+      accent: "purple",
+    },
   ],
   biatlon: [
     {
