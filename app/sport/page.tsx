@@ -73,6 +73,23 @@ const VENUES: Venue[] = [
     meta: [{ icon: "🌐", content: "tipsportlaguna.cz", href: "https://www.tipsportlaguna.cz" }],
   },
   {
+    icon: "🏖",
+    name: "Venkovní koupaliště na Velkém sídlišti",
+    description:
+      "Kompletně rekonstruovaný areál otevřený v červenci 2020. Bazén se 4 plaveckými drahami, velký relaxační bazén, tobogán, kamikadze skluzavka, proudový kanál (divoká řeka), dětské brouzdaliště s herními prvky, 2 opalovací louky, ping-pong a bistro. Provozovatel: Berounská sportovní. Sezóna červen–září (dle počasí).",
+    badges: [
+      { text: "Červen–Září", variant: "age" },
+      { text: "Červen: Po–Pá 12–19, So–Ne 10–19", variant: "blue" },
+      { text: "Červenec–Srpen: denně 10–20", variant: "blue" },
+      { text: "Dospělí 150 Kč / Děti & senioři 80 Kč", variant: "green" },
+      { text: "Od 17:00 zlevněné vstupné", variant: "green" },
+    ],
+    meta: [
+      { icon: "📍", content: "Velké sídliště, Beroun" },
+      { icon: "🌐", content: "tipsportlaguna.cz/koupaliste", href: "https://www.tipsportlaguna.cz/koupaliste" },
+    ],
+  },
+  {
     icon: "🏒",
     name: "Zimní stadion Beroun",
     description:
