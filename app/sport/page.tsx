@@ -144,10 +144,10 @@ const VENUES: Venue[] = [
     icon: "🌿",
     name: "Park Homolka – nový komunitní areál",
     description:
-      "Nový park dokončený v létě 2024. Travnatá plocha pro sport a venkovní akce, moderní dětské hřiště, outdoor tréninkové hřiště, inline dráha pro bruslaře, běžce a koloběžky. Sadové úpravy v dalších etapách.",
+      "Nový park dokončený v létě 2025. Travnatá plocha pro sport a venkovní akce, moderní dětské hřiště, outdoor tréninkové hřiště, inline dráha pro bruslaře, běžce a koloběžky. Sadové úpravy v dalších etapách.",
     badges: [
       { text: "Zdarma, volný přístup", variant: "age" },
-      { text: "Otevřeno 2024", variant: "green" },
+      { text: "Otevřeno 2025", variant: "green" },
     ],
     meta: [{ icon: "📍", content: "Pod Homolkou, Beroun" }],
   },
@@ -781,12 +781,6 @@ export default function SportBerounPage() {
       </nav>
 
       {renderContent()}
-
-      <Box type="note" title="O datech">
-        Data z: piranhas.cz, skkelti.cz, medvedi.cz, tcrak.cz, cluberoun.cz, skcembrit.cz,
-        biatlonberoun.cz, bkberoun.cz, lokomotivaberoun.cz, berounskasportovni.cz, ltcberoun.cz,
-        Berounský deník, město-beroun.cz. Přehled k 3/2026, doporučujeme ověřit na webech klubů.
-      </Box>
     </main>
   );
 }
